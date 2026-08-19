@@ -1,7 +1,5 @@
 <img width="1526" height="837" alt="image" src="https://github.com/user-attachments/assets/0fb5af7c-98c0-4498-b37f-d946c2964400" />
 
-# NexusOS
-
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Native-Operating%20System-blueviolet?style=for-the-badge">
   <img src="https://img.shields.io/badge/Local%20First-Private-success?style=for-the-badge">
